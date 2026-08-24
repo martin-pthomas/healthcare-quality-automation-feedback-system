@@ -8,7 +8,7 @@ This project focused on improving a healthcare quality audit and feedback proces
 
 The existing process relied heavily on individual Excel files, manual data consolidation, manual scoring, manual feedback communication, and report preparation. These activities created opportunities for missed feedback, data-entry errors, duplicate audits, reporting delays, and limited real-time visibility.
 
-The improvement journey began with an Excel/VBA-based automation concept and was subsequently transformed into a centralized Quickbase solution.
+The improvement journey built upon an Excel/VBA automation solution that had been developed several months before the Yellow Belt project to address recurring manual activities. The Yellow Belt project subsequently focused on scaling and centralizing the solution through Quickbase.
 
 ---
 
@@ -97,25 +97,25 @@ The identified risks were subsequently addressed through process automation and 
 
 ## Improvement Journey
 
-The solution evolved through two major stages.
+The improvement journey evolved from an existing Excel/VBA automation solution into a centralized Quickbase solution.
 
-### Stage 1 — Excel/VBA Automation
+### Stage 1 — Existing Excel/VBA Automation
 
-Before moving to a centralized platform, an Excel/VBA-based solution was developed to address immediate manual pain points.
+Several months before the Yellow Belt project, an Excel/VBA-based solution was developed to address recurring manual activities in the audit process.
 
 The solution:
 
-* Maintained audit records in a personal audit-tracking workbook
-* Used VBA/VLOOKUP-based automation to retrieve relevant agent and case information
+* Maintained individual audit records in a personal audit-tracking workbook
+* Used VLOOKUP/VBA-based automation to retrieve relevant agent and case information
 * Reflected audit scores into the required audit record
 * Generated the required feedback email template through VBA
-* Reduced repetitive data entry and copy-paste activities
+* Reduced repetitive data-entry and copy-paste activities
 
-This initial solution demonstrated the potential for automation while also highlighting the limitations of maintaining a process across multiple individual Excel files.
+The Excel/VBA solution helped address immediate manual pain points but still relied on individual files and did not provide a centralized source of audit data.
 
 ### Stage 2 — Quickbase Automation
 
-The improvement was subsequently migrated to a centralized Quickbase solution.
+The Yellow Belt project focused on migrating the process to a centralized Quickbase solution.
 
 The centralized system provided:
 
@@ -183,7 +183,7 @@ The implemented solution produced measurable improvements in audit efficiency an
 ### Additional Process Improvements
 
 * Duplicate audits were prevented by the system.
-* Incorrect feedback details were eliminated.
+* Incorrect feedback details were fully eliminated.
 * Feedback tracking was established.
 * Manual multiple-file maintenance was eliminated.
 * Reporting and trend analysis became centralized.
@@ -200,7 +200,7 @@ My contributions included:
 
 * Identifying inefficiencies and failure points in the existing audit process
 * Initiating the improvement idea
-* Designing and developing the initial Excel/VBA automation concept
+* Developing the initial Excel/VBA automation solution several months before the Yellow Belt project
 * Automating agent-information retrieval and feedback preparation
 * Proposing migration to Quickbase
 * Collaborating with the developer during solution development
@@ -214,20 +214,20 @@ My contributions included:
 
 ## Project Timeline
 
-| Phase                                     | Timeline                |
-| ----------------------------------------- | ----------------------- |
-| Improvement idea & problem identification | July 2025               |
-| Excel/VBA automation concept              | July–August 2025        |
-| Quickbase development & testing           | August–September 2025   |
-| Quickbase implementation                  | September 2025          |
-| Stabilization, training & adoption        | September–November 2025 |
-| Project completion                        | November 2025           |
+| Phase                                           | Timeline                         |
+| ----------------------------------------------- | -------------------------------- |
+| Initial Excel/VBA automation                    | Several months before YB project |
+| Improvement opportunity & YB project initiation | July 2025                        |
+| Quickbase development & testing                 | August–September 2025            |
+| Quickbase implementation                        | September 2025                   |
+| Stabilization, training & adoption              | September–November 2025          |
+| Project completion                              | November 2025                    |
 
 ---
 
 ## Key Takeaways
 
-This project demonstrated how a process improvement initiative can evolve from a simple automation concept into a centralized workflow solution.
+This project demonstrated how a process improvement initiative can evolve from an individual automation solution into a centralized workflow solution.
 
 The improvement was not limited to reducing audit time. It addressed multiple process risks by combining:
 
@@ -239,14 +239,14 @@ The project resulted in improved audit efficiency, increased audit capacity, aut
 
 ## Project Documentation
 
-📄 **[View the Detailed Case Study](case-study/Healthcare-Quality-Automation-Case-Study.pdf)**
-
-The detailed case study provides a deeper view of the process improvement journey, Lean Six Sigma application, workflow transformation, solution design, and project results.
+Detailed project documentation will be added to this repository.
 
 ---
+## Certification
 
+This project was completed as part of my **Lean Six Sigma Yellow Belt** journey and was certified in **December 2025**.
 ### Tools & Methods
-
+---
 **Lean Six Sigma:** SIPOC, FMEA
 **Automation:** Excel, VBA, Quickbase
 **Process Improvement:** Workflow Analysis, Standardization, Automation, Error Reduction

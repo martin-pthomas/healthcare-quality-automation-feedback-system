@@ -140,29 +140,29 @@ The centralized system provided:
 ### Before
 
 **Sampling File**
-↓
+→
 **Individual QA Excel Files**
-↓
+→
 **Manual Audit & Scoring**
-↓
+→
 **Manual Feedback Email**
-↓
+→
 **Shared Excel Consolidation**
-↓
+→
 **Manual Reporting & Trend Analysis**
 
 ### After
 
 **Bulk Case Upload**
-↓
+→
 **Centralized Audit Tool**
-↓
+→
 **Audit & Structured Error Capture**
-↓
+→
 **Automated Score Calculation**
-↓
+→
 **Automated Feedback & Tracking**
-↓
+→
 **Dashboards & Filterable Reporting**
 
 ---

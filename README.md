@@ -245,8 +245,10 @@ Detailed project documentation will be added to this repository.
 ## Certification
 
 This project was completed as part of my **Lean Six Sigma Yellow Belt** journey and was certified in **December 2025**.
-### Tools & Methods
+
 ---
+### Tools & Methods
+
 **Lean Six Sigma:** SIPOC, FMEA
 **Automation:** Excel, VBA, Quickbase
 **Process Improvement:** Workflow Analysis, Standardization, Automation, Error Reduction

@@ -239,7 +239,7 @@ The project resulted in improved audit efficiency, increased audit capacity, aut
 
 ## Project Documentation
 
-Detailed project documentation will be added to this repository.
+📄 [**View the Detailed Case Study**](case-study/Healthcare-Quality-Automation-Case-Study.pdf)
 
 ---
 ## Certification
